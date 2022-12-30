@@ -34,6 +34,17 @@ Let's break this down just a little bit for us to understand how it works and ho
 ## Please Note:  
 *This script is for educational purposes only. Any illegal actions you take utilizing this tool is on you. I, CryptoH4ck3r, am not responsible for your actions!*  
   
-## Coffee Time;
-*I enjoy creating scripts & having fun with sharing to the world. If you like the work I do, please consider buying me a Coffee. My BTC Adr is;  
-bc1q7np8xjmz40knvu6lma8xqmqkpwkssmwpmq9vw0
+## Connect with Crypto H4ck3r  
+If you would like to connect with Crypto H4ck3r and talk about programming, hacking, or anything else, AWESOME! Let's connect here;  
+**Email:** *cryptoh4ck3r@proton.me*  
+**Twitter:** *https://www.twitter.com/CryptoH4ck3r*  
+  
+If you liked this script, and would like to see more come fromt he author, please help support them. They are running dangerously low on coffee!  
+BitCoin Wallet (Recieving):  
+3QVThxXUbV4uaKBBJP1bHahZH2iJhpmncT  
+  
+Etherum Wallet (Recieving):  
+0x07a0d46097C63Ee7E66229821fc0115Bb0E2F424  
+  
+Doge Wallet (Recieving):  
+DRjYNp9JGbkFSVL5tXQqbU6y8Wy99bJA8m  
